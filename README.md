@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Anish Paudel</h1>
-<h3 align="center">A Javascript Developer and a Computer Science Student</h3>
+<h3 align="center">Javascript Developer and Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rpaudel379&label=Profile%20views&color=0e75b6&style=flat" alt="rpaudel379" /> </p>
 
