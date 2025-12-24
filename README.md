@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rpaudel379&label=Profile%20views&color=0e75b6&style=flat" alt="rpaudel379" /> </p>
 
-- 🌱 Learning **NextJS**
+- 🌱 Learning **Everything**
 
 - 👨‍💻 All of my projects are available at [https://anishsite.netlify.app/](https://anishsite.netlify.app/)
 
-- 💬 Ask me about **Javascript**
-
 - 📫 How to reach me **rpaudel379@gmail.com**
 
-- 📄 Know about my experiences [https://anishsite.netlify.app/resume.pdf](https://anishsite.netlify.app/resume.pdf)
+- 📄 Know about my experiences [https://anishsite.netlify.app/resume](https://anishsite.netlify.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
